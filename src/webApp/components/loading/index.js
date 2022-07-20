@@ -1,6 +1,3 @@
-/*
- * @Description: Loading
-  */
 
 import React from 'react'
 

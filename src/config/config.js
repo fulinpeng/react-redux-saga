@@ -1,10 +1,3 @@
-/*
- * @Description: 项目默认全局配置项
- */
-
-window.link_one_config = {
-    // ...
-};
 
 (function (win, doc) {
     function fontSizeAuto(oriWidth) {

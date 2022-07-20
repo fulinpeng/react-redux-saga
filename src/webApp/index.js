@@ -1,6 +1,3 @@
-/*
- * @Description: 路由
- */
 
 import React, { Component } from "react";
 import { HashRouter as Router, Route} from "react-router-dom";

@@ -1,6 +1,4 @@
-/**
- * @PeoplePanel: 人员信息模块
- **/
+
 import React, { Component } from "react";
 import "./index.scss";
 import Tag from "_components/tag";

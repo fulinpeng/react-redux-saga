@@ -1,7 +1,3 @@
-/**
- * @AddAndEditPeople: 编辑和新增人员模块
- * @isEdit: 标识编辑还是新增
- **/
 import React, { Component } from "react";
 import "./index.scss";
 import Input from "_components/input";
